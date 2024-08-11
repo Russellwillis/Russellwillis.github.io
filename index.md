@@ -12,10 +12,16 @@ I chose this artifact as I felt it would allow me to change the original program
 For my reflection on this artifacts enhancement, I learned how to do more with GLFW as it is definetly harder to implement certain structures than if I were to use GLUT.
 #### Project 2: Algorithms and Data Structures
 ###### Description
+For this project I chose the artifact from IT 145: Foundation in Application Development. The artifact was part of the final project, which was to make a anuimal rescue program in Java for the driver of the rescue vehicle to receive in different animals(Dogs or Monkeys)
 ###### Justification
+I chose this artifact so I can showcase my skills in data structures and algorithms as I have implemented sorting methods for the display list.
 ###### Reflection
+In this artifact I learned more about different algorithms to figure out which one suited my program best to my liking.
 #### Project 3: Databases
 ###### Description
+This project I chose to use the artifact from CS 360: Mobile Architecture and Programming. This artifact was the final project of that class. It was to create an app that tracks the daily weights inputted by the user.
 ###### Justification
+I chose this artifact to showcase my skills in databases and to show my improvement on creating apps for phones.
 ###### Reflection
+In this artifact I learned more about databases and how to make sure they are correct or else the programs will constantly crash.
 ## Professional Self-Assessment
