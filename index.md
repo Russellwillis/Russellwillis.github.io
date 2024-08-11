@@ -16,6 +16,7 @@ I chose this artifact as I felt it would allow me to change the original program
 ###### Reflection
 For my reflection on this artifacts enhancement, I learned how to do more with GLFW as it is definetly harder to implement certain structures than if I were to use GLUT.
 #### Project 2: Algorithms and Data Structures
+<center>
  <a href="" title="Click me to view the artifact">
     <img src="" height=250>
   </a>
@@ -27,6 +28,7 @@ I chose this artifact so I can showcase my skills in data structures and algorit
 ###### Reflection
 In this artifact I learned more about different algorithms to figure out which one suited my program best to my liking.
 #### Project 3: Databases
+<center>
  <a href="" title="Click me to view the artifact">
     <img src="" height=250>
   </a>
