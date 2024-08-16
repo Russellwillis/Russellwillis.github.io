@@ -11,7 +11,27 @@ Before Southern New Hampshire I went to a technical college in South Carolina to
 
 Each artifact had its own purpose in this portfolio. For the first project it is to demonstrate the software and engineering and design as creating a 3D render of a airhockey table has to be designed properly or issues will arrise. The data structures and algorithms portion works perfectly for the project 2 as the sorting method is a great example of what to look for with an algorithm. The database project is perfect as I use two databses for this program and each database has a different design as well as the program uses a security mindset as the app requires logins to open.
 
+<code>Course Outcome 1</code>:
 
+I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science. I was able to complete this by using artifact three. That project allows for a callaborative environment that the audience can alter whenever and wherever needed through the app. 
+
+<code>Course Outcome 2</code>:
+
+I Designed, Developed, and Delivered professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by completing artifact two. This artifact allows the employees of the animal rescue center to go step by step to input information when needed through thurough instructions.
+
+<code>Course Outcome 3</code>:
+
+Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
+I Designed and Evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices by completing Project 2: Algorithms and Data Structures. For this project, I enhanced the animal rescue center to use an algorithm to sort the animals.
+
+
+<code>Course Outcome 4</code>:
+
+I Demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals by completing artifact three which is creating a working app for android applications. This artifact allowed me to use a handfull of methods to allow different techniques to be shown such as skills in java and sql.
+
+<code>Course Outcome 5</code>:
+
+ I Developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by completing Project 3: Databases. This database is held in the system its self and in a separate database than the other information in the system. It is also a system that requires logins as to not allow any random person to get into someone elses information.
 
 
 
@@ -47,7 +67,7 @@ For this project I decided to chose the artifact from CS 330: Computational Grap
 I chose this artifact as I felt it would allow me to change the original programs design from using GLUTs structure to using the GLFW structure.
 ##### Reflection
 
-For my reflection on this artifacts enhancement, I learned how to do more with GLFW as it is definetly harder to implement certain structures than if I were to use GLUT.
+For my reflection on this artifacts enhancement, I learned how to do more with GLFW as it is definetly harder to implement certain structures than if I were to use GLUT. One improvement of this project was removing glut from this project as the camera was buggy. 
 #### <center>Project 2: Algorithms and Data Structures</center>
 
 <center>
@@ -68,7 +88,7 @@ I chose this artifact so I can showcase my skills in data structures and algorit
 
 ##### Reflection
 
-In this artifact I learned more about different algorithms to figure out which one suited my program best to my liking.
+In this artifact I learned more about different algorithms to figure out which one suited my program best to my liking. The artifact improved by being able to go back to the program and the animals from the last time using the system saves because now the animals are being saved to a file. They also are now being sorted by alphebetically so the outputs look organized using a bubble sort method.
 
 #### <center>Project 3: Databases</center>
 
@@ -89,4 +109,4 @@ This project I chose to use the artifact from CS 360: Mobile Architecture and Pr
 I chose this artifact to showcase my skills in databases and to show my improvement on creating apps for phones.
 ##### Reflection
 
-In this artifact I learned more about databases and how to make sure they are correct or else the programs will constantly crash.
+In this artifact I learned more about databases and how to make sure they are correct or else the programs will constantly crash. Some major improvements on this system is that the databases are working now as it only allowed the first line to be read from the original artifact. Now as long as an account is made you can log in and display the weights.
