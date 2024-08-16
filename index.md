@@ -18,7 +18,7 @@ For my reflection on this artifacts enhancement, I learned how to do more with G
 #### Project 2: Algorithms and Data Structures
 <center>
  <a href="" title="Click me to view the artifact">
-    <img src="" height=250>
+    <img src="BubbleSortAlgorithm.png" height=250>
   </a>
 </center>
 ##### Description
