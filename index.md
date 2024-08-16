@@ -6,7 +6,7 @@
 #### Project 1: Software Engineering and Design
 <center>
   <a href="" title="Click me to view the artifact">
-    <img src="SED.PNG" height=250>
+    <img src="SED.png" height=250>
   </a>
 </center>
 ##### Description
