@@ -3,6 +3,18 @@
 ## <center>CS-499 | SNHU</center>
 
 #### CODE REVIEW
+##### Project 1: Software Engineering and Design
+
+<code>See the artifact's code review <a href="https://youtu.be/zTK3yx63vlM">here</a>.</code>
+
+##### Project 2: Algorithms and Data Structures
+
+<code>See the artifact's code review <a href="https://youtu.be/y0UvEotS7NA">here</a>.</code>
+
+##### Project 3: Databases
+
+<code>See the artifact's code review <a href="https://youtu.be/KBWjrAvvmic">here</a>.</code>
+
 
 #### Project 1: Software Engineering and Design
 
