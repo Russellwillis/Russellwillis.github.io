@@ -48,12 +48,12 @@ In this artifact I learned more about different algorithms to figure out which o
 #### Project 3: Databases
 
 <center>
- <a href="" title="Click me to view the artifact">
+ <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS360%20-%20Databases" title="Click me to view the artifact">
     <img src="WeightsDatabase.png" height=250>
   </a>
 </center>
 
-<code>See the artifact's code <a href="">here</a>.</code>
+<code>See the artifact's code <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS360%20-%20Databases">here</a>.</code>
 
 ##### Description
 
