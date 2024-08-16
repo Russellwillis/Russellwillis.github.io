@@ -3,6 +3,12 @@
 ## <center>CS-499 | SNHU</center>
 
 ## Professional Self-Assessment
+My time in the Computer Science program at Southern New Hampshire University has helped shape my skills in programming. This eportfolio will show my skills in planning and developing industry-standard code. This eportfolio will be targeting my skills in three categories: Software Design and Engineering, Algorithms and Data Structures, and Databases. 
+
+The first project displays my knowledge of Software Design and Engineering. It is a project that renders a 3D image of an air hockey table that the user can float around using the keyboard. This program allows me to show my skills with the openGL programming interface. The second project is on Algorithms and Data Structures. This project is a java project that was created for a animal rescue company. This project demonstrates my skills in jave which shows my Object-Oriented Programming skills. My third project is on databases. This project is an android application that tracks weights inputted by the user and placed in a database as well as new accounts informations. This project displays my skills in database with SQLite.
+
+
+
 
 
 #### <center>CODE REVIEW</center>
