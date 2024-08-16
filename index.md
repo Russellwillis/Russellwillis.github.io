@@ -11,7 +11,9 @@
     <img src="SED.png" height=250>
   </a>
 </center>
+
 <code>See the artifact's code <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS330%20Final%20-%20Software%20Engineering%20and%20Design">here</a>.</code>
+
 ##### Description
 
 For this project I decided to chose the artifact from CS 330: Computational Graphics and Visualization. The artifact was part of the final project, which was to create a 3D render of an image. The image I chose to render was a air hockey table.
@@ -28,6 +30,7 @@ For my reflection on this artifacts enhancement, I learned how to do more with G
     <img src="BubbleSortAlgorithm.png" height=250>
   </a>
 </center>
+
 <code>See the artifact's code <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/IT%20145%20-%20Algorithms%20and%20data%20structure/Enhanced">here</a>.</code>
 
 ##### Description
