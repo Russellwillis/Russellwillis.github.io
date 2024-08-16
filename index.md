@@ -5,7 +5,7 @@
 #### CODE REVIEW
 #### Project 1: Software Engineering and Design
 <center>
-  <a href="" title="Click me to view the artifact">
+  <a href="SED.PNG" title="Click me to view the artifact">
     <img src="" height=250>
   </a>
 </center>
