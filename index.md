@@ -1,6 +1,9 @@
-# Computer Science Capstone
+# <center>Computer Science Capstone</center>
   
 ## <center>CS-499 | SNHU</center>
+
+## Professional Self-Assessment
+
 
 #### CODE REVIEW
 ##### Project 1: Software Engineering and Design
@@ -77,5 +80,3 @@ I chose this artifact to showcase my skills in databases and to show my improvem
 ##### Reflection
 
 In this artifact I learned more about databases and how to make sure they are correct or else the programs will constantly crash.
-
-## Professional Self-Assessment
