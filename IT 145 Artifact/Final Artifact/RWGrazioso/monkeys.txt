@@ -1,6 +1,0 @@
-Mikey, Animal Type: Guenon, Gender: Female, Age: 3, Weight: 12, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: Trained, Reserved: false, In Service Location: USA
-James, Animal Type: Guenon, Gender: Female, Age: 3, Weight: 12, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: Trained, Reserved: false, In Service Location: USA
-Kyle, Animal Type: Guenon, Gender: Female, Age: 3, Weight: 12, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: Trained, Reserved: false, In Service Location: USA
-Russ, Animal Type: Guenon, Gender: Female, Age: 3, Weight: 12, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: Trained, Reserved: false, In Service Location: USA
-Jody, Animal Type: Guenon, Gender: Female, Age: 3, Weight: 12, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: Trained, Reserved: false, In Service Location: USA
-Abraham, Animal Type: Guenon, Gender: Female, Age: 3, Weight: 12, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: Trained, Reserved: false, In Service Location: USA

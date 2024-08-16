@@ -1,5 +1,0 @@
-Rex, Animal Type: Lab, Gender: Male, Age: 2, Weight: 14, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: In progress, Reserved: true, In Service Location: USA
-Ahmed, Animal Type: Lab, Gender: Male, Age: 2, Weight: 14, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: In progress, Reserved: true, In Service Location: USA
-Cody, Animal Type: Lab, Gender: Male, Age: 2, Weight: 14, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: In progress, Reserved: true, In Service Location: USA
-Tyler, Animal Type: Lab, Gender: Male, Age: 2, Weight: 14, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: In progress, Reserved: true, In Service Location: USA
-Roman, Animal Type: Lab, Gender: Male, Age: 2, Weight: 14, Acquisition Date: 07-25-24, Acquisition Location: USA, Training Status: In progress, Reserved: true, In Service Location: USA
