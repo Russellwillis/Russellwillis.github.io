@@ -5,7 +5,7 @@
 ## Professional Self-Assessment
 
 
-#### CODE REVIEW
+#### <center>CODE REVIEW</center>
 ##### Project 1: Software Engineering and Design
 
 <code>See the artifact's code review <a href="https://youtu.be/zTK3yx63vlM">here</a>.</code>
@@ -19,7 +19,7 @@
 <code>See the artifact's code review <a href="https://youtu.be/KBWjrAvvmic">here</a>.</code>
 
 
-#### Project 1: Software Engineering and Design
+#### <center>Project 1: Software Engineering and Design</center>
 
 <center>
   <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS330%20Final%20-%20Software%20Engineering%20and%20Design" title="Click me to view the artifact">
@@ -38,7 +38,7 @@ I chose this artifact as I felt it would allow me to change the original program
 ##### Reflection
 
 For my reflection on this artifacts enhancement, I learned how to do more with GLFW as it is definetly harder to implement certain structures than if I were to use GLUT.
-#### Project 2: Algorithms and Data Structures
+#### <center>Project 2: Algorithms and Data Structures</center>
 
 <center>
  <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/IT%20145%20-%20Algorithms%20and%20data%20structure/Enhanced" title="Click me to view the artifact">
@@ -60,7 +60,7 @@ I chose this artifact so I can showcase my skills in data structures and algorit
 
 In this artifact I learned more about different algorithms to figure out which one suited my program best to my liking.
 
-#### Project 3: Databases
+#### <center>Project 3: Databases</center>
 
 <center>
  <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS360%20-%20Databases" title="Click me to view the artifact">
