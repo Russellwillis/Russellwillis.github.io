@@ -49,10 +49,12 @@ In this artifact I learned more about different algorithms to figure out which o
 
 <center>
  <a href="" title="Click me to view the artifact">
-    <img src="" height=250>
+    <img src="WeightsDatabase.png" height=250>
   </a>
 </center>
+
 <code>See the artifact's code <a href="">here</a>.</code>
+
 ##### Description
 
 This project I chose to use the artifact from CS 360: Mobile Architecture and Programming. This artifact was the final project of that class. It was to create an app that tracks the daily weights inputted by the user.
