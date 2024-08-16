@@ -8,13 +8,30 @@
 #### <center>CODE REVIEW</center>
 ##### Project 1: Software Engineering and Design
 
+<center>
+  <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS330%20Final%20-%20Software%20Engineering%20and%20Design" title="Click me to view the artifact">
+    <img src="SED.png" height=250>
+  </a>
+</center>
+
 <code>See the artifact's code review <a href="https://youtu.be/zTK3yx63vlM">here</a>.</code>
 
-##### Project 2: Algorithms and Data Structures
+##### Project 2: Algorithms and Data Structures<center>
+
+ <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/IT%20145%20-%20Algorithms%20and%20data%20structure/Enhanced" title="Click me to view the artifact">
+    <img src="BubbleSortAlgorithm.png" height=250>
+  </a>
+</center>
 
 <code>See the artifact's code review <a href="https://youtu.be/y0UvEotS7NA">here</a>.</code>
 
 ##### Project 3: Databases
+
+<center>
+ <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS360%20-%20Databases" title="Click me to view the artifact">
+    <img src="WeightsDatabase.png" height=250>
+  </a>
+</center>
 
 <code>See the artifact's code review <a href="https://youtu.be/KBWjrAvvmic">here</a>.</code>
 
