@@ -12,7 +12,7 @@
   </a>
 </center>
 
-<code>See the artifact's code <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS330%20Final%20-%20Software%20Engineering%20and%20Design">here</a>.</code>
+<code>See the artifact's code and narrative <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS330%20Final%20-%20Software%20Engineering%20and%20Design">here</a>.</code>
 
 ##### Description
 
@@ -31,7 +31,7 @@ For my reflection on this artifacts enhancement, I learned how to do more with G
   </a>
 </center>
 
-<code>See the artifact's code <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/IT%20145%20-%20Algorithms%20and%20data%20structure/Enhanced">here</a>.</code>
+<code>See the artifact's code  and narrative <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/IT%20145%20-%20Algorithms%20and%20data%20structure/Enhanced">here</a>.</code>
 
 ##### Description
 
@@ -53,7 +53,7 @@ In this artifact I learned more about different algorithms to figure out which o
   </a>
 </center>
 
-<code>See the artifact's code <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS360%20-%20Databases">here</a>.</code>
+<code>See the artifact's code  and narrative <a href="https://github.com/Russellwillis/Russellwillis.github.io/tree/main/CS360%20-%20Databases">here</a>.</code>
 
 ##### Description
 
